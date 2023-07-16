@@ -1,0 +1,98 @@
+{
+    "ipad&iphone": {
+     "score_gpt3": 18.75,
+     "score_gpt4": 18.0,
+     "round_avg_gpt3": 3.6666666666666665,
+     "round_avg_gpt4": 4.083333333333333,
+     "winning_rate_gpt3": 0.1111111111111111,
+     "winning_rate_gpt4": 0.3333333333333333
+    },
+    "guitar&lute": {
+     "score_gpt3": 18.75,
+     "score_gpt4": 19.75,
+     "round_avg_gpt3": 2.8461538461538463,
+     "round_avg_gpt4": 3.7777777777777777,
+     "winning_rate_gpt3": 0.15384615384615385,
+     "winning_rate_gpt4": 0.4444444444444444
+    },
+    "BMW&BENZ": {
+     "score_gpt3": 18.25,
+     "score_gpt4": 18.5,
+     "round_avg_gpt3": 3.090909090909091,
+     "round_avg_gpt4": 3.8,
+     "winning_rate_gpt3": 0.2727272727272727,
+     "winning_rate_gpt4": 0.3
+    },
+    "eyebrow&beard": {
+     "score_gpt3": 19.25,
+     "score_gpt4": 17.5,
+     "round_avg_gpt3": 2.0,
+     "round_avg_gpt4": 3.4285714285714284,
+     "winning_rate_gpt3": 0.0,
+     "winning_rate_gpt4": 0.35714285714285715
+    },
+    "Grape&Raisins": {
+     "score_gpt3": 15.75,
+     "score_gpt4": 17.5,
+     "round_avg_gpt3": 2.3076923076923075,
+     "round_avg_gpt4": 2.3333333333333335,
+     "winning_rate_gpt3": 0.0,
+     "winning_rate_gpt4": 0.0
+    },
+    "sea_lion&seal": {
+     "score_gpt3": 17.75,
+     "score_gpt4": 19.0,
+     "round_avg_gpt3": 2.6153846153846154,
+     "round_avg_gpt4": 4.625,
+     "winning_rate_gpt3": 0.0,
+     "winning_rate_gpt4": 0.5
+    },
+    "spider_man&batman": {
+     "score_gpt3": 17.0,
+     "score_gpt4": 18.0,
+     "round_avg_gpt3": 2.9166666666666665,
+     "round_avg_gpt4": 3.375,
+     "winning_rate_gpt3": 0.16666666666666666,
+     "winning_rate_gpt4": 0.25
+    },
+    "nike&adidas": {
+     "score_gpt3": 18.0,
+     "score_gpt4": 18.75,
+     "round_avg_gpt3": 3.3333333333333335,
+     "round_avg_gpt4": 4.222222222222222,
+     "winning_rate_gpt3": 0.08333333333333333,
+     "winning_rate_gpt4": 0.3333333333333333
+    },
+    "milk&soy_milk": {
+     "score_gpt3": 18.75,
+     "score_gpt4": 16.25,
+     "round_avg_gpt3": 3.2,
+     "round_avg_gpt4": 4.666666666666667,
+     "winning_rate_gpt3": 0.2,
+     "winning_rate_gpt4": 0.7333333333333333
+    },
+    "motorcycle&electromobile": {
+     "score_gpt3": 17.0,
+     "score_gpt4": 18.0,
+     "round_avg_gpt3": 2.25,
+     "round_avg_gpt4": 3.875,
+     "winning_rate_gpt3": 0.08333333333333333,
+     "winning_rate_gpt4": 0.375
+    },
+    "tiger&lion": {
+     "score_gpt3": 17.0,
+     "score_gpt4": 16.25,
+     "round_avg_gpt3": 3.125,
+     "round_avg_gpt4": 1.5454545454545454,
+     "winning_rate_gpt3": 0.125,
+     "winning_rate_gpt4": 0.0
+    },
+    "avg": {
+     "score_gpt3": 19.625,
+     "score_gpt4": 19.75,
+     "round_avg_gpt3": 3.1351806526806527,
+     "round_avg_gpt4": 3.973235930735931,
+     "winning_rate_gpt3": 0.11960178710178708,
+     "winning_rate_gpt4": 0.3626587301587302
+    }
+   }
